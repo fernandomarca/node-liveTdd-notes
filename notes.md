@@ -20,6 +20,7 @@
 - Repository Pattern;
 - Test Double (Mock);
 - Small Commits;
+- System Under Test (SUT);
 
 # SOLID
 
