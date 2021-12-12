@@ -1,13 +1,15 @@
 # Anti-Patterns/Code Smells
 
--Speculative Generality;
--God Class (classe Deus);
+- Speculative Generality;
+- God Class (classe Deus);
 
 - Divergent Change;
-  -Blank Lines;
-  -Improper Instantiation;
+  - Blank Lines;
+  - Improper Instantiation;
   - High Coupling;
   - Test Code in Production;
+- Duplicate Code;
+  - Shotgun Surgery;
 
 # Design Patterns/Principles/Conventions
 
@@ -18,9 +20,10 @@
 - Arrange, Act, Assert (AAA);
 - Dependency Injection (DI);
 - Repository Pattern;
-- Test Double (Mock);
+- Test Double (Mock-input, Stud-output, Spy-I/O);
 - Small Commits;
 - System Under Test (SUT);
+- Strategy Pattern
 
 # SOLID
 
