@@ -10,6 +10,7 @@
   - Test Code in Production;
 - Duplicate Code;
   - Shotgun Surgery;
+  - Long Parameter List;
 
 # Design Patterns/Principles/Conventions
 
@@ -24,6 +25,8 @@
 - Small Commits;
 - System Under Test (SUT);
 - Strategy Pattern
+- Factory Pattern
+- Test (Red - Green - Refactor)
 
 # SOLID
 
