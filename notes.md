@@ -12,6 +12,7 @@
   - Shotgun Surgery;
   - Long Parameter List;
   - Primitive Obsession;
+  - Bad Naming;
 
 # Design Patterns/Principles/Conventions
 
@@ -28,6 +29,7 @@
 - Strategy Pattern
 - Factory Pattern
 - Test (Red - Green - Refactor)
+- Clean Code
 
 # SOLID
 
